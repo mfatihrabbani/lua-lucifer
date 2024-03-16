@@ -1,0 +1,38 @@
+{
+    "content": "INI ADALAH KONTEN",
+    "embeds": [
+      {
+        "title": "Mayor Webhook",
+        "url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+        "color": 52479,
+        "fields": [
+          {
+            "name": "Nama",
+            "value": "Mayor",
+            "inline": true
+          },
+          {
+            "name": "Social Media",
+            "value": "Youtube, instagram",
+            "inline": true
+          }
+        ],
+        "author": {
+          "name": "Mayor",
+          "url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+          "icon_url": "https://lh3.googleusercontent.com/d/1YoQ5PZ9baPFYEbRPpy_iddGaofWfTSyK"
+        },
+        "footer": {
+          "text": "Ini adalah text footer",
+          "icon_url": "https://lh3.googleusercontent.com/d/1YoQ5PZ9baPFYEbRPpy_iddGaofWfTSyK"
+        },
+        "image": {
+          "url": "https://lh3.googleusercontent.com/d/1YoQ5PZ9baPFYEbRPpy_iddGaofWfTSyK"
+        },
+        "thumbnail": {
+          "url": "https://lh3.googleusercontent.com/d/1YoQ5PZ9baPFYEbRPpy_iddGaofWfTSyK"
+        }
+      }
+    ],
+    "attachments": []
+  }
